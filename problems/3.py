@@ -6,6 +6,8 @@
 
 import time
 
+# Itterates through the numbers 2 to target 
+# to find the largest prime factor
 def primeFactors(target):
     largestFactor = 0
     i = 2
@@ -20,7 +22,6 @@ def primeFactors(target):
 if __name__ == "__main__":
 
     start = time.time()
-    # Execute code here
     print primeFactors(600851475143)
     end = time.time()
 

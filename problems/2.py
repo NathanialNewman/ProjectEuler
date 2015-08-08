@@ -11,6 +11,8 @@
 
 import time
 
+# Generates the Fibonacci numbers which are smaller than the target
+# During generation sums the even numbers 
 def sumEvenFibonacci(target):
     f1 = 1
     f2 = 2

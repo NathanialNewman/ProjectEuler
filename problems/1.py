@@ -5,6 +5,8 @@
 
 import time
 
+# Generates the sum of the multiples of 3 or 5 
+# which are smaller than the target number
 def sumMultiplesOf3and5(target):
     runningSum = 0
     for num in range(target):

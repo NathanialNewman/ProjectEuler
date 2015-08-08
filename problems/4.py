@@ -8,10 +8,9 @@
 
 import time
 
+# Returns True if the value is a palindrome
 def palindromeCheck(value):
     strValue = str(value)
-    
-
     i = 0
     j = len(strValue)-1
 
@@ -21,10 +20,11 @@ def palindromeCheck(value):
         else:
             i += 1
             j -= 1
-
     return True
 
-
+# Starting at 999*999 iterates by reducing one of the numbers until a 
+# palindrome is enountered then reducing the other and starting again
+    # Example: 999*999, 999*998 ... palindrome, 998*999, 998*998
 def largestPalindrome():
     topValue = 999
     topPalindrome = 0
@@ -40,7 +40,6 @@ def largestPalindrome():
 if __name__ == "__main__":
 
     start = time.time()
-    # Execute code here
     print largestPalindrome()
     end = time.time()
 
