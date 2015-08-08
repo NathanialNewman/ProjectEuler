@@ -1,5 +1,5 @@
 # Author: Nate Newman
-# Source: Project Euler Problem 1
+# Source: Project Euler Problem 4
 # Title: Largest Palindrome Product
 # Description: A palindromic number reads the same both ways. 
     # The largest palindrome made from the product of two 2-digit numbers is 

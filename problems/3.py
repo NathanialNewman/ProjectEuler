@@ -1,5 +1,5 @@
 # Author: Nate Newman
-# Source: Project Euler Problem 1
+# Source: Project Euler Problem 3
 # Title: Largest Prime Factor
 # Description: The prime factors of 13195 are 5, 7, 13, 29
     # What is the largest prime factor of the number 600851475143 

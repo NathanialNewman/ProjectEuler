@@ -1,5 +1,5 @@
 # Author: Nate Newman
-# Source: Project Euler Problem 1
+# Source: Project Euler Problem 2
 # Title: Even Fibonacci Numbers 
 # Description: Each new term in the Fibonacci sequence is generated 
     # by adding the previous two terms. 
